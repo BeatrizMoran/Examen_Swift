@@ -6,6 +6,7 @@ Swift
 Ejercicios básicos de programación con Swift.
 
 Elementos básicos
+
     01.Calculadora de propinas.
     
     02.Convertidor de millas a kilómetros.
@@ -13,6 +14,7 @@ Elementos básicos
     03.Decodificador de contraseñas.
 
 Estructuras de control
+
     04.Serie de Fibonacci.
     
     05.Evaluador de edades.
@@ -24,6 +26,7 @@ Estructuras de control
     08.Juego de adivinanza.
 
 Estructuras de datos
+
     09.Inventario de productos.
     
     10.Cálculo de promedios.
@@ -35,6 +38,7 @@ Estructuras de datos
     13.Clasificación de notas.
 
 Programación orientada a objetos
+
     14Biblioteca y libros.
     
     15.Vehículos y conductores.
@@ -44,26 +48,31 @@ Programación orientada a objetos
     17.Carrera de animales.
     
     18.Banco y cuentas.
-
-
 2.-
-
 Elementos básicos
-    Área de un triángulo.
+
+    .Área de un triángulo.
+    
     Día de la semana.
+    
     Par-impar.
 Estructuras de control
+
     Suma 100.
     Temperatura.
     Factorial.
     Lista de números primos.
     Verificar DNI.
+    
 Estructuras de datos
+
     Temperaturas del día.
     Matriz aleatoria.
     Buscar mayor y menor.
     Glosario.
     Alumnos.
+    
 Programación orientada a objetos
+
     Equipo y corredores.
     Sonoro.
