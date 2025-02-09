@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:01_area_triangulo"
+      name = "01_area_triangulo">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:02_dia_semana"
+      name = "02_dia_semana">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:03_par_impar"
+      name = "03_par_impar">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:04_suma_100"
+      name = "04_suma_100">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:05_temperatura"
+      name = "05_temperatura">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:06_factorial"
+      name = "06_factorial">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:07_lista_primos"
+      name = "07_lista_primos">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:08_verificar_dni"
+      name = "08_verificar_dni">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:09_temperaturas_dia"
+      name = "09_temperaturas_dia">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:10_matriz_aleatoria"
+      name = "10_matriz_aleatoria">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:11_buscar_mayor_menor"
+      name = "11_buscar_mayor_menor">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:12_glosario"
+      name = "12_glosario">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:13_alumnos"
+      name = "13_alumnos">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
+         location = "group:grupos.graffle">
+      </FileRef>
+      <FileRef
+         location = "group:grupos.png">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:14_equipo_corredores"
+      name = "14_equipo_corredores">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
+         location = "group:equipo_corredores.svg">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:15_sonoro"
+      name = "15_sonoro">
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+      <FileRef
+         location = "group:interfaz.png">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="112px" preserveAspectRatio="none" style="width:333px;height:112px;" version="1.1" viewBox="0 0 333 112" width="333px" zoomAndPan="magnify"><defs><filter height="300%" id="f1v7rg9i2f8te8" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[e54d1ddad44fdb9ba256a8749f08d4fc]
+class Equipo--><rect codeLine="5" fill="#FEFECE" filter="url(#f1v7rg9i2f8te8)" height="60.8047" id="Equipo" style="stroke: #A80036; stroke-width: 1.5;" width="100" x="7" y="19.5"/><ellipse cx="34.15" cy="35.5" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M36.4938,31.1719 C35.5563,30.7344 34.9625,30.5938 34.0875,30.5938 C31.4625,30.5938 29.4625,32.6719 29.4625,35.3906 L29.4625,36.5156 C29.4625,39.0938 31.5719,40.9844 34.4625,40.9844 C35.6813,40.9844 36.8375,40.6875 37.5875,40.1406 C38.1656,39.7344 38.4938,39.2813 38.4938,38.8906 C38.4938,38.4375 38.1031,38.0469 37.6344,38.0469 C37.4156,38.0469 37.2125,38.125 37.025,38.3125 C36.5719,38.7969 36.5719,38.7969 36.3844,38.8906 C35.9625,39.1563 35.275,39.2813 34.5094,39.2813 C32.4625,39.2813 31.1656,38.1875 31.1656,36.4844 L31.1656,35.3906 C31.1656,33.6094 32.4156,32.2969 34.15,32.2969 C34.7281,32.2969 35.3375,32.4531 35.8063,32.7031 C36.2906,32.9844 36.4625,33.2031 36.5563,33.6094 C36.6188,34.0156 36.65,34.1406 36.7906,34.2656 C36.9313,34.4063 37.1656,34.5156 37.3844,34.5156 C37.65,34.5156 37.9156,34.375 38.0875,34.1563 C38.1969,34 38.2281,33.8125 38.2281,33.3906 L38.2281,31.9688 C38.2281,31.5313 38.2125,31.4063 38.1188,31.25 C37.9625,30.9844 37.6813,30.8438 37.3844,30.8438 C37.0875,30.8438 36.8844,30.9375 36.6656,31.25 L36.4938,31.1719 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="41" x="50.85" y="39.6543">Equipo</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="8" x2="106" y1="51.5" y2="51.5"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="88" x="13" y="65.7104">-nombre: String</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="8" x2="106" y1="72.3047" y2="72.3047"/><!--MD5=[c3fe9d885a3ac5dececbcdad0f6de640]
+class Corredor--><rect codeLine="9" fill="#FEFECE" filter="url(#f1v7rg9i2f8te8)" height="86.4141" id="Corredor" style="stroke: #A80036; stroke-width: 1.5;" width="107" x="207.5" y="7"/><ellipse cx="231.5" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M233.8438,18.6719 C232.9063,18.2344 232.3125,18.0938 231.4375,18.0938 C228.8125,18.0938 226.8125,20.1719 226.8125,22.8906 L226.8125,24.0156 C226.8125,26.5938 228.9219,28.4844 231.8125,28.4844 C233.0313,28.4844 234.1875,28.1875 234.9375,27.6406 C235.5156,27.2344 235.8438,26.7813 235.8438,26.3906 C235.8438,25.9375 235.4531,25.5469 234.9844,25.5469 C234.7656,25.5469 234.5625,25.625 234.375,25.8125 C233.9219,26.2969 233.9219,26.2969 233.7344,26.3906 C233.3125,26.6563 232.625,26.7813 231.8594,26.7813 C229.8125,26.7813 228.5156,25.6875 228.5156,23.9844 L228.5156,22.8906 C228.5156,21.1094 229.7656,19.7969 231.5,19.7969 C232.0781,19.7969 232.6875,19.9531 233.1563,20.2031 C233.6406,20.4844 233.8125,20.7031 233.9063,21.1094 C233.9688,21.5156 234,21.6406 234.1406,21.7656 C234.2813,21.9063 234.5156,22.0156 234.7344,22.0156 C235,22.0156 235.2656,21.875 235.4375,21.6563 C235.5469,21.5 235.5781,21.3125 235.5781,20.8906 L235.5781,19.4688 C235.5781,19.0313 235.5625,18.9063 235.4688,18.75 C235.3125,18.4844 235.0313,18.3438 234.7344,18.3438 C234.4375,18.3438 234.2344,18.4375 234.0156,18.75 L233.8438,18.6719 Z "/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="55" x="247.5" y="27.1543">Corredor</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="208.5" x2="313.5" y1="39" y2="39"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="88" x="213.5" y="53.2104">-nombre: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="95" x="213.5" y="66.0151">-apellidos: String</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="66" x="213.5" y="78.8198">-ranking: Int</text><line style="stroke: #A80036; stroke-width: 1.5;" x1="208.5" x2="313.5" y1="85.4141" y2="85.4141"/><!--MD5=[10027b396de7413bea1f52c9f26d5e5e]
+link Equipo to Corredor--><path codeLine="15" d="M107.203,50 C140.546,50 173.888,50 207.231,50 " fill="none" id="Equipo-Corredor" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="7" x="192.5355" y="46.0402">*</text><!--MD5=[352b1983743504408f52e4f04fc55384]
+@startuml
+skinparam classAttributeIconSize 0
+skinparam nodesep 100
+skinparam ranksep 80
+
+class Equipo {
+- nombre: String
+}
+
+class Corredor {
+- nombre: String
+- apellidos: String
+- ranking: Int
+}
+
+Equipo - "*" Corredor
+@enduml
+
+PlantUML version 1.2020.17beta5(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
